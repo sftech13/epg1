@@ -1,3 +1,5 @@
 *
 !.gitignore
 !epg.xml.gz
+!channel_data.json
+!.p13key
